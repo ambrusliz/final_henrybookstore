@@ -1,2 +1,3 @@
-# final_henrybookstore
-ITEC4299: final project
+# henrybookstore
+
+# MGA ITEC 4299 DevOps - Final Project
